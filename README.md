@@ -12,7 +12,7 @@ _Live Example: https://hugo-template.vercel.app_
 
 ### How We Created This Example
 
-To get started with Hugo for deployment with Vercel, you can use the [Hugo CLI](https://gohugo.io/commands/) to initialize the project:
+To get started with Hugo for deployment with Vercel..., you can use the [Hugo CLI](https://gohugo.io/commands/) to initialize the project:
 
 ```shell
 $ hugo new site project-name
